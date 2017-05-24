@@ -1,3 +1,3 @@
 # README
 
-This is first app of Ruby on Rails
+This is first app of Ruby on Rails - update
